@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_65c75537ee792b5771f926f4_65c7553eee792b5771f9279f/scale_1200");
+    background-size: 100%;
+}
+
+h1 {
+    background-color: orange;
+    padding: 2px;
+}
